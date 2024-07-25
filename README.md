@@ -11,7 +11,7 @@
 - 😉 How to reach me **ayushyadavjee9001@gmail.com**
 <br> <br>
 
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNhbWVid2UzY25iamY5b2NuYjVvYXdtZHViZjNhc201M25zdmYwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DYB4inWOjppqE/giphy.gif" width="500" align="center">
+<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmUwaGxqcHJ5cHFwMm5qZDRjN2NiM21uOWpqcjhxNXA0N2R6ems5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6OG572WGNgRi/giphy.gif" width="500" align="center">
 <br><br> </p>
 
 
