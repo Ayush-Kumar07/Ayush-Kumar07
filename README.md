@@ -1,38 +1,37 @@
-<h1 align="center">Myself Ayush⚔️</h1>
-
-   
-
-<p align="center">Passionate developer with expertise in C++, Python, and many more emerging technologies.</p>
-
-
-
-- 👾 I’m currently learning **Javascript and DSA in C++**
-- 🧠 Ask me about **Python and C++**
-- 😉 How to reach me **ayushyadavjee9001@gmail.com**
-<br> <br>
-
-<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmUwaGxqcHJ5cHFwMm5qZDRjN2NiM21uOWpqcjhxNXA0N2R6ems5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6OG572WGNgRi/giphy.gif" width="500" align="center">
-<br><br> </p>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+<h3 align="center">A passionate FullStack Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Basu0069/Basu0069/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
-<h3 align="left">Add me up here:</h3> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush-Kumar07&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush Kumar" /> </p>
+
+<p align="left"> <a href="https://https://x.com/ayusx_h" target="blank"><img src="https://img.shields.io/twitter/follow/Ayush Kumar?logo=twitter&style=for-the-badge" alt="AyushKumar"  </p>
+
+- 🔭 I’m currently working on **FullStack**
+
+- 🌱 I’m currently learning **JAVA**
+
+- 💬 Ask me about **PYTHON , C++**
+
+- 📫 How to reach me **ayushyadavjee9001@gmail.com**
+
+- ⚡ Fun fact **I am AUTISTIC**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/ayusx_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayusx_h" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Ayush_Kumar077/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ayush_Kumar077" height="30" width="40" /></a>
+<a href="https://x.com/ayusx_htwitter.com/ayushkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayush-kumar-5228a2298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-5228a2298" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
 
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush-Kumar07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AyushKumar" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-Kumar07&show_icons=true&locale=en&theme=tokyonight" alt="Ayush-Kumar07" /></p>
 
-``` Rust
-
-fn main() {
-    println!("Alone but Enough!!!!");
-}
-
-```
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush-Kumar07" alt="GitHub Streak" /></a>
